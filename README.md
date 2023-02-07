@@ -98,6 +98,10 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 
 * [Vimesh UI - Agile UI framework for Alpine.js](https://github.com/vimeshjs/vimesh-ui)
 
+## Games
+
+* [Alpine.js Game - Troy Clemmer](https://github.com/troyclemmer/alpine_minigame)
+
 ## Other
 
 * [Alpine.js Weekly - Newsletter](https://alpinejs.codewithhugo.com/newsletter)
